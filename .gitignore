@@ -132,3 +132,4 @@ dmypy.json
 .idea/
 /modules_selenium/driver/*
 !/models_selenium/driver/*.tar
+/modules_requests/data/save/*
