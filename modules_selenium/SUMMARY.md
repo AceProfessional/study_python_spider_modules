@@ -8,4 +8,5 @@
 6. [selenium标签页的切换](./part_006.py)
 7. [switch_to切换frame标签](./part_007.py)
 8. [selenium对cookie的处理](./part_008.py)
+9. [selenium控制浏览器执行js代码](part_009.py)
 
